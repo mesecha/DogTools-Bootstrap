@@ -1,0 +1,6 @@
+node_modules
+# folder logs
+logs/
+
+# text-files
+dogs/*.txt
